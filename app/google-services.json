@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "556177605440-d2tm2pc9eak8gabfuds6inpcesc46jc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fundesp.makersapp",
+            "certificate_hash": "06ba4f45eb7fb2d6119280ea6bf2d91f43b76911"
+          }
+        },
+        {
           "client_id": "556177605440-ch4orpg31ad5oa2o2ap0ac7aj0pu9rt9.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556177605440-ch4orpg31ad5oa2o2ap0ac7aj0pu9rt9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
