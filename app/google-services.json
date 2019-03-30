@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556177605440",
+    "firebase_url": "https://makersapp-dc1af.firebaseio.com",
+    "project_id": "makersapp-dc1af",
+    "storage_bucket": "makersapp-dc1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556177605440:android:08dedf5deaf086d7",
+        "android_client_info": {
+          "package_name": "com.fundesp.makersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556177605440-ch4orpg31ad5oa2o2ap0ac7aj0pu9rt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAqoq24_12ijYM7yeo76xf4UARSRopV2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
