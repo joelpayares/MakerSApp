@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         TextEmail = findViewById(R.id.txtEmail);
         TextPassword = findViewById(R.id.txtContraseña);
 
-        Button btnRegistrar = findViewById(R.id.button);
+        Button btnRegistrar = findViewById(R.id.boton);
 
         progressDialog = new ProgressDialog(this);
 
